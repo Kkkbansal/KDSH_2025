@@ -1,4 +1,4 @@
-**#Automated Framework for Research Paper**
+**Automated Framework for Research Paper**
 
  Publishability Assessment and Conference
  Selection
