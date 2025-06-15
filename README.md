@@ -1,7 +1,4 @@
-**Automated Framework for Research Paper**
-
- Publishability Assessment and Conference
- Selection
+# Automated Framework for Research Paper Publishability Assessment and Conference Selection
 Worked on a  innovative automated framework that addresses
  two critical challenges in academic publishing: assessing paper publishability and recommending appropriate conferences. Using a combination of ad
 vanced natural language processing techniques, including SciBERT, LDA
